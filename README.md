@@ -31,7 +31,7 @@ This project provides insights to answer:
 
 ## Statistical Analysis
 Key statistical insights derived from the dataset:
-1. Summary Metrics
+### 1. Summary Metrics
 
 | Metric	| Value |
 |---------|-------|
@@ -41,22 +41,22 @@ Key statistical insights derived from the dataset:
 | Total Distance | 2.51M km |
 | Average Distance per Trip | 24.64 km |
 
-2. Vehicle-Level Statistics
+### 2. Vehicle-Level Statistics
 - Auto generated highest revenue (12.9M) and largest customer base
 - Bike and Go Mini contributed significantly with low fuel cost & high demand
 - Uber XL had lowest revenue & customer count
 
-3. Time-Series Analysis
+### 3. Time-Series Analysis
 - Highest demand observed in January, March, June, and August
 - Lowest performance in February (seasonality dip)
 
-4. Customer Behaviour
+### 4. Customer Behaviour
 - First-time riders: 48K
 - Return riders: 5650
 - Regular riders (3+ rides): 11K
 - This indicates a growing but moderately loyal customer base.
 
-5. Ratings
+### 5. Ratings
 - Average Customer Rating: 4.40
 - Average Driver Rating: 4.23
 - Both ratings fall inside healthy performance range.
