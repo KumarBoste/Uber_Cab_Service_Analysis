@@ -73,9 +73,9 @@ Revenue is strongly correlated to seasonality & travel months.
 - Auto, Bike, and Go Mini are the top 3 revenue contributors.
 - Customer satisfaction is higher in economical categories.
 - Uber XL is underperforming → possible reasons:
-- Higher price
-- Limited demand
-- Lower availability
+  - Higher price
+  - Limited demand
+  - Lower availability
 
 ### 3. Revenue Dashboard
 - Revenue by Payment Mode
