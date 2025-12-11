@@ -64,12 +64,12 @@ Key statistical insights derived from the dataset:
 ## Data Visualizations & Insights
 Below are insights derived from each dashboard:
 
-1. Overview Dashboard
+### 1. Overview Dashboard
 Quick KPIs show healthy booking volume but high lost bookings (57K).
 Bookings follow a cyclical pattern, rising in summer and dipping in Feb.
 Revenue is strongly correlated to seasonality & travel months.
 
-2. Vehicle Dashboard Insights
+### 2. Vehicle Dashboard Insights
 - Auto, Bike, and Go Mini are the top 3 revenue contributors.
 - Customer satisfaction is higher in economical categories.
 - Uber XL is underperforming → possible reasons:
@@ -77,7 +77,7 @@ Revenue is strongly correlated to seasonality & travel months.
 - Limited demand
 - Lower availability
 
-3. Revenue Dashboard
+### 3. Revenue Dashboard
 - Revenue by Payment Mode
 - UPI (23M) is the most used payment mode → indicates digital adoption.
 - Lowest revenue from Debit Card (4M).
@@ -86,7 +86,7 @@ Revenue is strongly correlated to seasonality & travel months.
   - Khandasa, Barakhamba, Saket, Badarpur
 - These zones have high density and active commuting population.
 
-4. Customer Dashboard
+### 4. Customer Dashboard
 - Customer trends show steady monthly ride patterns.
 - Top customers generate 5K–7K revenue annually.
 - Cancels occurred mostly due to:
@@ -94,7 +94,7 @@ Revenue is strongly correlated to seasonality & travel months.
   - Customer demand change
   - Technical/other issues
   
-5. Distance Dashboard
+### 5. Distance Dashboard
 - Total distance (2.51M km) is heavily driven by Auto, Bike, and Go Mini.
 - Heatmap of Time Slots shows:
     - Peak hours: 9 AM–12 PM and 3 PM–6 PM
