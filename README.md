@@ -99,6 +99,13 @@ Revenue is strongly correlated to seasonality & travel months.
 - Heatmap of Time Slots shows:
     - Peak hours: 9 AM–12 PM and 3 PM–6 PM
     - Lowest activity: 3 AM–6 AM
+
+
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel (Data Source)
   
 ## Conclusion
 The Uber Cab Service Analysis project successfully provides a comprehensive view of operational efficiency, demand drivers, revenue patterns, and customer experience.
